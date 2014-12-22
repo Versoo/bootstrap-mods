@@ -5,10 +5,10 @@ Adds a few very necessary features to Twitter's Bootstrap 3, including 5, 7, and
 
 ## Classes
 
-.col-[1-5]-5
-.col-[1-7]-7
-.col-[1-8]-8
-.pull-left-[xs-lg]
-.pull-right-[xs-lg]
+.col-[1-5]-5<br/>
+.col-[1-7]-7<br/>
+.col-[1-8]-8<br/>
+.pull-left-[xs-lg]<br/>
+.pull-right-[xs-lg]<br/>
 
 *That's all for now...
