@@ -1,7 +1,7 @@
 bootstrap-mods
 ==============
 
-Adds a few very necessary features to Twitter's Bootstrap 3, including 5, 7, and 8 column grid options and breakpoint-sensitive floating. Just the essentials.
+Adds a few very necessary features to Twitter's Bootstrap 3, including 5-column, 7-column, and 8-column grid options and breakpoint-sensitive floating. Just the essentials.
 
 ## Classes
 
@@ -11,4 +11,4 @@ Adds a few very necessary features to Twitter's Bootstrap 3, including 5, 7, and
 .pull-left-[xs-lg]<br/>
 .pull-right-[xs-lg]<br/>
 
-That's all for now...
+Feature recommendations are encouraged!
